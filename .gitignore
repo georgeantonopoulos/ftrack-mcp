@@ -30,3 +30,8 @@ download_*.py
 nul
 .mcp.json
 CLAUDE.md
+AGENTS.md
+
+output/
+scripts/
+
